@@ -1,1 +1,6 @@
-# dog.rb
+class Dog# dog.rb
+end
+
+fido = Dog.new 
+snoopy = Dog.new 
+lassie = Dog.new 
